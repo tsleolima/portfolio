@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/portfolio/static/js/main.4eaa6e86.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.4eaa6e86.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.44087e9b.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.44087e9b.js.map",
+    "static/js/2.12a518c2.chunk.js": "/portfolio/static/js/2.12a518c2.chunk.js",
+    "static/js/2.12a518c2.chunk.js.map": "/portfolio/static/js/2.12a518c2.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.be88f6b27989c940f7b6602b61e56726.js": "/portfolio/precache-manifest.be88f6b27989c940f7b6602b61e56726.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/js/2.12a518c2.chunk.js.LICENSE.txt": "/portfolio/static/js/2.12a518c2.chunk.js.LICENSE.txt",
+    "static/media/lab-spotify-50.md": "/portfolio/static/media/lab-spotify-50.875442f7.md"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44087e9b.js",
+    "static/js/2.12a518c2.chunk.js",
+    "static/js/main.4eaa6e86.chunk.js"
+  ]
+}
