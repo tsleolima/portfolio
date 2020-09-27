@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/portfolio/static/js/main.b6a3a7cb.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.b6a3a7cb.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.b8af7374.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.b8af7374.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.44087e9b.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.44087e9b.js.map",
     "static/js/2.6b28aaf6.chunk.js": "/portfolio/static/js/2.6b28aaf6.chunk.js",
     "static/js/2.6b28aaf6.chunk.js.map": "/portfolio/static/js/2.6b28aaf6.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.9883f2ffd4448655f32bbbf59d93853c.js": "/portfolio/precache-manifest.9883f2ffd4448655f32bbbf59d93853c.js",
+    "precache-manifest.06ef8e2edfbc3ec38c88eb27e3fa07e7.js": "/portfolio/precache-manifest.06ef8e2edfbc3ec38c88eb27e3fa07e7.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/js/2.6b28aaf6.chunk.js.LICENSE.txt": "/portfolio/static/js/2.6b28aaf6.chunk.js.LICENSE.txt",
     "static/media/lab-spotify-50.md": "/portfolio/static/media/lab-spotify-50.875442f7.md"
@@ -15,6 +15,6 @@
   "entrypoints": [
     "static/js/runtime-main.44087e9b.js",
     "static/js/2.6b28aaf6.chunk.js",
-    "static/js/main.b6a3a7cb.chunk.js"
+    "static/js/main.b8af7374.chunk.js"
   ]
 }
